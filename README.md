@@ -4,10 +4,9 @@ Aqui presento las nuevas cosas del sitio web www.mundomotorcol.com (20/07/2022)
 
 Agregadas nuevas secciones:
 
-Index principal www.mundomotorcol.com/View/Idiomas/idiomas
-#
-Pagina principal Ingles www.mundomotorcol.com/View/Idiomas/ingles
-Pagina principal Aleman www.mundomotorcol.com/View/Idiomas/aleman
+1. Index principal www.mundomotorcol.com/View/Idiomas/idiomas
+2. Pagina principal Ingles www.mundomotorcol.com/View/Idiomas/ingles
+3. Pagina principal Aleman www.mundomotorcol.com/View/Idiomas/aleman
 Pagina principal Italiano www.mundomotorcol.com/View/Idiomas/italiano
 Pagina principal Frances www.mundomotorcol.com/View/Idiomas/frances
 Pagina principal Portugues www.mundomotorcol.com/View/Idiomas/portugues
