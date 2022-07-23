@@ -15,3 +15,7 @@ Agregadas nuevas secciones (20/07/2022):
 9. Pagina principal Español www.mundomotorcol.com/View/Idiomas/espanol
 
 #
+
+Agregadas nueva sección (23/07/2022):
+
+1.Buscador de equipo por nombre  www.mundomotorcol.com/View/Futbol/buscadorEquipo
