@@ -19,3 +19,9 @@ Agregadas nuevas secciones (20/07/2022):
 Agregadas nueva sección (23/07/2022):
 
 1.Buscador de equipo por nombre  www.mundomotorcol.com/View/Futbol/buscadorEquipo
+
+# 
+
+Agregadas nueva sección (27/07/2022):
+
+1.Seccion carros de policia  www.mundomotorcol.com/View/Militar/paisCarroPolicia
