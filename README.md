@@ -25,3 +25,10 @@ Agregadas nueva sección (23/07/2022):
 Agregadas nueva sección (27/07/2022):
 
 1.Seccion carros de policia  www.mundomotorcol.com/View/Militar/paisCarroPolicia
+
+
+#
+
+Actualización de datos (2/08/2022):
+
+1.Seccion Futbol   www.mundomotorcol.com/View/Futbol/futbol
