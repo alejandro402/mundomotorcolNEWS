@@ -48,3 +48,9 @@ Renovacion (5/08/2022):
 #
 
 
+Nueva sección agregada (6/08/2022):
+
+1.Seccion idoma: www.mundomotorcol.com/View/Idiomas/1000palabras
+
+Aqui podremos aprender en multiples idiomas , mas de 1200 palabras nuevas , en ingles , español , aleman, frances, italiano , chino , portugues , ruso
+
