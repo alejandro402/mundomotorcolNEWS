@@ -40,12 +40,11 @@ Actualización de datos (5/08/2022):
 
 1.Sección Futbol   www.mundomotorcol.com/View/Futbol/museoEquipoAleatorio
 
-
-#
-
 Renovacion (5/08/2022):
 
-1. Sección Idioma www.mundomotorcol.com/View/Idiomas/idiomas
+1.Sección Idioma www.mundomotorcol.com/View/Idiomas/idiomas
 
+
+#
 
 
