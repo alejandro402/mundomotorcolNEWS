@@ -65,3 +65,13 @@ Nueva sección agregada ahora se puede filtrar por tema (8/08/2022):
 Aqui podremos aprender en multiples idiomas , mas de 1200 palabras nuevas , en ingles , español , aleman, frances, italiano , chino , portugues , ruso
 
 
+#
+
+
+Actualización de datos (21/10/2022):
+
+1.Seccion Futbol   www.mundomotorcol.com/View/Futbol/futbol
+
+
+
+#
